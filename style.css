@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+}
+.head{
+    width: 80%;
+    font-family: 'Titillium Web', sans-serif;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 1px dashed black;
+}
+#result_object_name,result_object_accuracy{
+color: blue;
+}
+.header{
+    width: 700;
+}
